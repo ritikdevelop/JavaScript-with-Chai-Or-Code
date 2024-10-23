@@ -109,7 +109,7 @@ console.log(name.localeCompare("Ritik"));
 console.log(message.match("Ritik"));
 // Output: [ 'Ritik', index: 6, input: '   Hello, I\'m Ritik   ' ]
 
-// * String search()
+// * String search();
 
 console.log(message.search("Ritik"));
 // Output: 6
